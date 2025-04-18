@@ -1,1 +1,1 @@
-This is sample feature file number 1 for co-author Alice.
+This is sample feature file number 2 for co-author Bob.
