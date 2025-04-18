@@ -1,0 +1,1 @@
+This is a sample feature file to create a commit for co-authored pull request.
